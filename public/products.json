@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kaju-Nuts",
+        "id": "1",
+        "price": 99,
+        "img": "https://i.ibb.co/k4HbWkK/1.jpg"
+    },
+    {
+        "name": "Honey",
+        "id": "2",
+        "price": 49,
+        "img": "https://i.ibb.co/TRj6cXL/2.jpg"
+    },
+    {
+        "name": "Dhonia",
+        "id": "3",
+        "price": 129,
+        "img": "https://i.ibb.co/kBd7QV2/donia.jpg"
+    },
+    {
+        "name": "Holud-Ghura",
+        "id": "4",
+        "price": 149,
+        "img": "https://i.ibb.co/26Cq0VF/holud.jpg"
+    },
+    {
+        "name": "Olive-Oil",
+        "id": "5",
+        "price": 199,
+        "img": "https://i.ibb.co/j80Pq84/italian-olive-oil.jpg"
+    },
+    {
+        "name": "Jira-Ghura",
+        "id": "6",
+        "price": 79,
+        "img": "https://i.ibb.co/Jjt3zWB/jira.png"
+    },
+    {
+        "name": "Kalojira-Honey",
+        "id": "7",
+        "price": 29,
+        "img": "https://i.ibb.co/PQhqYy4/kalojira-honey-1.jpg"
+    },
+    {
+        "name": "Lal-Chal-Amon",
+        "id": "8",
+        "price": 149,
+        "img": "https://i.ibb.co/3y9h01c/Lal-Chal-Amon-1.jpg"
+    },
+    {
+        "name": "Loacal-MaghiShorisha-Oil",
+        "id": "9",
+        "price": 69,
+        "img": "https://i.ibb.co/F3Jb9Vs/Local-Maghi-Sarisha-Oil-aaaaocaa-aa-aaaaaayao-C-aaaa-aaaaaaaa-aanaocaa.jpg"
+    },
+    {
+        "name": "Maccofffe-Classic",
+        "id": "10",
+        "price": 39,
+        "img": "https://i.ibb.co/0V30yts/maccoffee-classic.jpg"
+    },
+    {
+        "name": "Maccofffe-Gold",
+        "id": "11",
+        "price": 99,
+        "img": "https://i.ibb.co/wcHYvXp/Maccoffee-Gold-100-gram-1.jpg"
+    },
+    {
+        "name": "Maccofffe-Orginal",
+        "id": "12",
+        "price": 49,
+        "img": "https://i.ibb.co/MMcjQGp/Maccoffee-Original-100-gram.jpg"
+    },
+    {
+        "name": "Moris-Ghura",
+        "id": "13",
+        "price": 129,
+        "img": "https://i.ibb.co/Zffd99y/moris.jpg"
+    },
+    {
+        "name": "Organic-Apple-Cider",
+        "id": "14",
+        "price": 149,
+        "img": "https://i.ibb.co/JKDc1pM/Organic-Apple-Cider-Vinegar-1.jpg"
+    },
+    {
+        "name": "Organic-Extra-Virgin-Coconut",
+        "id": "15",
+        "price": 199,
+        "img": "https://i.ibb.co/4V6xbmt/Organic-Extra-Virgin-Coconut-Oil-1.jpg"
+    },
+    {
+        "name": "Italian-Olive-Oil",
+        "id": "16",
+        "price": 79,
+        "img": "https://i.ibb.co/LvgcDmr/q653us5d.png"
+    },
+    {
+        "name": "Chiya-chid-Honey-juice",
+        "id": "17",
+        "price": 29,
+        "img": "https://i.ibb.co/xYCw5rm/qqqq-scaled-1-1200x800.jpg"
+    },
+    {
+        "name": "Tea-Gold",
+        "id": "18",
+        "price": 149,
+        "img": "https://i.ibb.co/sVKskh9/tea2.jpg"
+    },
+    {
+        "name": "Oil",
+        "id": "19",
+        "price": 69,
+        "img": "https://i.ibb.co/qJLdqHk/Whats-App-Image-2023-04-05-at-11-20-58.jpg"
+    },
+    {
+        "name": "Moris-Ghura",
+        "id": "20",
+        "price": 129,
+        "img": "https://i.ibb.co/Zffd99y/moris.jpg"
+    }
+]
